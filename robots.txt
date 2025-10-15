@@ -1,0 +1,4 @@
+User-agent: *
+User-agent: Yandex
+Sitemap: https://glazbogah.github.io/telegramm/sitemap.xml
+Host: https://glazbogah.github.io/telegramm/
